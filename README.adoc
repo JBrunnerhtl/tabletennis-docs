@@ -1,0 +1,6 @@
+= tabletennis docs
+Jan Brunner
+1.0.0, {docdate}
+
+
+== Props to https://github.com/htl-leonding[HTL Leonding] for template.

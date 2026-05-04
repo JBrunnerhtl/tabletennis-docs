@@ -1,0 +1,13 @@
+= Übersicht
+Jan Brunner
+1.0.0, {docdate}: Übersicht über Tischtennismanagement
+:icons: font
+:experimental:
+:sectnums:
+:source-highlighter: rouge
+:docinfo: shared
+:toc:
+
+== Links
+
+https://jbrunnerhtl.github.io/tabletennis-docs/specification.html[Spezifikation]

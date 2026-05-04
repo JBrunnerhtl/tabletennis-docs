@@ -1,0 +1,29 @@
+= Übersicht
+Jan Brunner
+1.0.0, {docdate}: Spezifikation
+:icons: font
+:experimental:
+:sectnums:
+:source-highlighter: rouge
+:docinfo: shared
+:toc:
+
+
+== Ausgangssituation
+
+== Istzustand
+
+== Problemstellung
+
+== Aufgabenstellung
+
+=== Funktionale Anforderung
+
+=== Nicht funktionale Anforderung
+
+
+== Ziele
+
+== Mengengerüst
+
+== Rahmenbedingungen
